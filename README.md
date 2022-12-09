@@ -8,4 +8,4 @@ My first repository
 2. Fate/hollow ataraxia
 3. Fate/Extra
 4. Fate/Unlimited Codes
-# for more info about the Fate series feel free to read it in this link: [Fate Series]([https://www.example.com](https://typemoon.fandom.com/wiki/Fate_series))
+# for more info about the Fate series feel free to read it in this link: [Fate Series]([https://www.example.com](https://typemoon.fandom.com/wiki/Fate_series)
